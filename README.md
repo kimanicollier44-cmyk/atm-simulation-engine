@@ -1,3 +1,5 @@
+![atm-simulation-engine Cover](assets/cover.png)
+
 # atm-simulation-engine
 
 **Inside an ATM, in code.** An educational ATM simulator and reverse-engineering lab — built from the transparent-ATM model video ("Inside an ATM: How cash actually gets dispensed!") — that shows, step by step, how an ATM verifies a transaction *before* any cash is allowed to move, then picks, scans, stacks, recounts, presents, settles — or retracts and reverses.
